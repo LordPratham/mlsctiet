@@ -1,6 +1,7 @@
 import React from 'react'
 import styles from './../Style/ourteam.module.css'
 import image7 from './../Assets/image7.png'
+import group59 from './../Assets/Group59.png'
 const Graphics = () => {
   return (
     <div>
@@ -75,6 +76,9 @@ const Graphics = () => {
       </div>
       <div className={styles.image8}>
         <img src={image7}  />
+      </div>
+      <div className={styles.group59}>
+        <img src={group59}  />
       </div>
     </div>
   )

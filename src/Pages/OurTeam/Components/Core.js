@@ -18,6 +18,20 @@ const Core = () => {
       img="https://res.cloudinary.com/dcvqnyvvt/image/upload/v1655810477/21_lubcch.png"
       title="Ikshan"
     />
+    <Card
+      img="https://res.cloudinary.com/dcvqnyvvt/image/upload/v1655810454/9_zuzct1.png"
+      title="Aryan Garg"
+    />
+
+    <Card
+      img="https://res.cloudinary.com/dcvqnyvvt/image/upload/v1655810525/42_hau5ba.png"
+      title="Aditya Pathak"
+    />
+
+    <Card
+      img="https://res.cloudinary.com/dcvqnyvvt/image/upload/v1655810477/21_lubcch.png"
+      title="Ikshan"
+    />
   </div>
   )
 }
