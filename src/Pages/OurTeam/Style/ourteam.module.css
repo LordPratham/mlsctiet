@@ -83,12 +83,15 @@
   
   .card {
     overflow: hidden;
-    box-shadow: 0 2px 20px #e1e5ee;
+    background-color: #26282A;
+    border: 1px solid;
+    border-color:  #FFF6EB;
     border-radius: 0.2rem;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     cursor: pointer;
+    /* width:20%;*/
     transition: transform 200ms ease-in;
   }
   .card__image {
