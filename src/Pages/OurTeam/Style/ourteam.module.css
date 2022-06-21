@@ -48,3 +48,10 @@
 .firstcomp {
   margin-left: 35% !important;
 }
+
+.topright {
+  position: absolute;
+  top: 0;
+  right: 0;
+  
+}
