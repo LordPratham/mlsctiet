@@ -6,17 +6,17 @@ const Core = () => {
     <div className={styles.wrapper}>
     <Card
       img="https://res.cloudinary.com/dcvqnyvvt/image/upload/v1655810454/9_zuzct1.png"
-      title="Aryan"
+      title="Aryan Garg"
     />
 
     <Card
       img="https://res.cloudinary.com/dcvqnyvvt/image/upload/v1655810525/42_hau5ba.png"
-      title="Pathak"
+      title="Aditya Pathak"
     />
 
     <Card
-      img="https://images.unsplash.com/photo-1529928520614-7c76e2d99740?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ"
-      title="Baked Cod with Vegetables"
+      img="https://res.cloudinary.com/dcvqnyvvt/image/upload/v1655810477/21_lubcch.png"
+      title="Ikshan"
     />
   </div>
   )

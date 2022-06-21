@@ -1,5 +1,6 @@
 import React from 'react'
 import styles from './../Style/ourteam.module.css'
+import image7 from './../Assets/image7.png'
 const Graphics = () => {
   return (
     <div>
@@ -58,7 +59,7 @@ const Graphics = () => {
         />
       </svg>
 
-      <svg width="337" height="298" viewBox="0 0 337 298" fill="none" xmlns="http://www.w3.org/2000/svg" className={styles.bottomleft}>
+      <svg width="170" height="200" viewBox="0 0 337 298" fill="none" xmlns="http://www.w3.org/2000/svg" className={styles.bottomleft}>
         <path d="M336 254C336 393.647 212.292 507 59.5 507C-93.2919 507 -217 393.647 -217 254C-217 114.354 -93.2919 1.00012 59.5 1.00012C212.292 1.00012 336 114.354 336 254Z" stroke="#2A7FE2" stroke-width="2"/>
         <path d="M320.306 255.306C320.306 387.74 202.986 495.247 58.0735 495.247C-86.8388 495.247 -204.159 387.74 -204.159 255.306C-204.159 122.872 -86.8388 15.3654 58.0735 15.3654C202.986 15.3654 320.306 122.872 320.306 255.306Z" stroke="#2A7FE2" stroke-width="2"/>
         <path d="M304.612 255.306C304.612 379.086 194.957 479.576 59.5005 479.576C-75.9562 479.576 -185.611 379.086 -185.611 255.306C-185.611 131.527 -75.9562 31.0362 59.5005 31.0362C194.957 31.0362 304.612 131.527 304.612 255.306Z" stroke="#2A7FE2" stroke-width="2"/>
@@ -69,7 +70,12 @@ const Graphics = () => {
         <path d="M221.861 256.612C221.861 344.322 143.513 415.586 46.6588 415.586C-50.1956 415.586 -128.543 344.322 -128.543 256.612C-128.543 168.901 -50.1956 97.6373 46.6588 97.6373C143.513 97.6373 221.861 168.901 221.861 256.612Z" stroke="#2A7FE2" stroke-width="2"/>
         <path d="M207.594 255.959C207.594 336.821 135.63 402.527 46.6591 402.527C-42.312 402.527 -114.275 336.821 -114.275 255.959C-114.275 175.097 -42.312 109.391 46.6591 109.391C135.63 109.391 207.594 175.097 207.594 255.959Z" stroke="#2A7FE2" stroke-width="2"/>
         </svg>
-
+      <div className={styles.image7}>
+        <img src={image7}  />
+      </div>
+      <div className={styles.image8}>
+        <img src={image7}  />
+      </div>
     </div>
   )
 }
