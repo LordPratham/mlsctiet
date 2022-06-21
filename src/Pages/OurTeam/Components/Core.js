@@ -18,7 +18,7 @@ const Core = () => {
       img="https://res.cloudinary.com/dcvqnyvvt/image/upload/v1655810477/21_lubcch.png"
       title="Ikshan"
     />
-    <Card
+    {/* <Card
       img="https://res.cloudinary.com/dcvqnyvvt/image/upload/v1655810454/9_zuzct1.png"
       title="Aryan Garg"
     />
@@ -31,7 +31,7 @@ const Core = () => {
     <Card
       img="https://res.cloudinary.com/dcvqnyvvt/image/upload/v1655810477/21_lubcch.png"
       title="Ikshan"
-    />
+    /> */}
   </div>
   )
 }

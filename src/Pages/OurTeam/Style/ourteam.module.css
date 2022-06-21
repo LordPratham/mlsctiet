@@ -1,3 +1,10 @@
+.body {
+    width: 100vw;
+    height:100vh;
+    background-color: #0d1213;
+    margin: 0px;
+    overflow : hidden;
+  }
 .heading {
   position: absolute;
   width: 344px;
@@ -12,12 +19,6 @@
   line-height: 100.3%;
   color: #fff6eb;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
-.body {
-  width: 100vw;
-  height: 100vh;
-  background-color: #0d1213;
-  margin: 0px;
 }
 
 .navbar {
@@ -101,7 +102,7 @@
   width: 55vw;
   /* grid-template-columns: repeat(auto-fit, minmax(10rem, 12rem)); */
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 6rem;
+  gap: 5rem;
   justify-content: center;
 }
 
