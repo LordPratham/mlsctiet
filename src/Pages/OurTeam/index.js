@@ -2,7 +2,6 @@ import React from "react";
 import Navbar from "./Components/Navbar";
 import Graphics from "./Components/Graphics";
 import styles from "./Style/ourteam.module.css";
-import Core from "./Components/Core";
 
 const OurTeam = () => {
   return (
